@@ -1,24 +1,23 @@
 # Travel-app backend
 
-Demo API for "travel-app" task.
-
-## Деплой
- - [Деплой на хероку](https://travel-app-demo.herokuapp.com)  
  - Доступные эндпойнты:
     - ```/countries``` - список стран
     - ```/countries/{id}``` - детали о стране
     - ```/docs``` - swagger документация
- 
+
+БД не задействована, данные в файлах. 
 
 ## Локальный запуск
 
-1. ```git clone https://github.com/rolling-scopes-school/travel-app-be.git```
-2. Создайте файл .env в корне приложения
-3. В созданном файе укажите переменные окружения:  
-```MONGO_CONNECTION_STRING=<адрес вашей локальной или облачной mongodb>```
-4. npm install
-5. npm run start:dev
+1. npm install
+2. npm run start
 
+Если засунуть в папку `static` содержимое папки `build` из фронтэнда - бэк будет сервить фронт из себя
+
+То есть в браузере по адресу `localhos:3001` откроется фронт
+
+
+З.Ы. если создать в корне файл `.env` и положить в него `PORT=80`, то бэк будет работать на порту 80
 
 ## Документация
 
