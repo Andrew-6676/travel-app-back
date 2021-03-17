@@ -53,7 +53,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/fXl4mIbZYNo',
+        url: 'https://youtube.com/embed/fXl4mIbZYNo',
         title: 'Explore The USA | Video Guide',
         description: 'Come see the United States! America is a large country with diverse offering of landscapes, climates and destinations. ',
       },
@@ -115,7 +115,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/fXl4mIbZYNo',
+        url: 'https://youtube.com/embed/fXl4mIbZYNo',
         title: 'Исследуйте США | Видео-гид',
         description: 'Приезжайте посмотреть Соединенные Штаты! Америка - большая страна с разнообразным ландшафтом, климатом и направлениями.',
       },
@@ -177,7 +177,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/fXl4mIbZYNo',
+        url: 'https://youtube.com/embed/fXl4mIbZYNo',
         title: 'Даследуйце ЗША | Відэагід',
         description: 'Прыходзьце паглядзець ЗША! Амерыка - гэта вялікая краіна з разнастайнымі краявідамі, кліматам і напрамкамі.',
       },
@@ -239,7 +239,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/plAvFL9E02g',
+        url: 'https://youtube.com/embed/plAvFL9E02g',
         title: 'United Kingdom | Basic Information | Everyone Must Know',
         description: 'The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe. England – birthplace of Shakespeare and The Beatles – is home to the capital, London, a globally influential centre of finance and culture.England is also site of Neolithic Stonehenge, Bath’s Roman spa and centuries-old universities at Oxford and Cambridge.',
       },
@@ -301,7 +301,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/plAvFL9E02g',
+        url: 'https://youtube.com/embed/plAvFL9E02g',
         title: 'Соединенное Королевство | Основная информация | Все должны знать',
         description: 'Соединенное Королевство, состоящее из Англии, Шотландии, Уэльса и Северной Ирландии, является островным государством в северо-западной Европе. В Англии - родине Шекспира и Битлз - находится столица, Лондон, всемирно влиятельный финансовый и культурный центр. Англия также является местом неолитического Стоунхенджа, римского курорта Бата и многовековых университетов в Оксфорде и Кембридже.',
       },
@@ -363,7 +363,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/plAvFL9E02g',
+        url: 'https://youtube.com/embed/plAvFL9E02g',
         title: 'Злучанае Каралеўства | Асноўная інфармацыя | Кожны павінен ведаць',
         description: 'Злучанае Каралеўства, якое складаецца з Англіі, Шатландыі, Уэльса і Паўночнай Ірландыі, з\'яўляецца астраўной дзяржавай на паўночным захадзе Еўропы. У Англіі - радзіме Шэкспіра і "Бітлз" - сталіцы Лондане, уплывовым сусветным цэнтры фінансаў і культуры, а ў Англіі - неалітычны Стоўнхэндж, рымскі курорт Бата і шматвяковыя універсітэты ў Оксфардзе і Кембрыджы.',
       },
@@ -426,7 +426,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vlEsvLrEOkA',
+        url: 'https://youtube.com/embed/vlEsvLrEOkA',
         title: 'Welcome to France!',
         description: 'Common information about France',
       },
@@ -488,7 +488,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vlEsvLrEOkA',
+        url: 'https://youtube.com/embed/vlEsvLrEOkA',
         title: 'Добро пожаловать во Францию!',
         description: 'Общая информация о Франции',
       },
@@ -550,7 +550,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vlEsvLrEOkA',
+        url: 'https://youtube.com/embed/vlEsvLrEOkA',
         title: 'Сардэчна запрашаем у Францыю!',
         description: 'Агульная інфармацыя пра Францыю',
       },
@@ -613,7 +613,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/a3ezBXebEtc',
+        url: 'https://youtube.com/embed/a3ezBXebEtc',
         title: 'Czech Republic',
         description: 'Set out to the Czech Republic and get to know the 12 Czech UNESCO monuments. This year marks exactly 20 years since the first of them was entered into the prestigious list and the anniversary will be marked by several cultural events.',
       },
@@ -676,7 +676,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/a3ezBXebEtc',
+        url: 'https://youtube.com/embed/a3ezBXebEtc',
         title: 'Чехия',
         description: 'Отправляйтесь в Чешскую Республику и познакомьтесь с 12 чешскими памятниками ЮНЕСКО. В этом году исполняется ровно 20 лет со дня внесения первого из них в престижный список, а юбилей отметят рядом культурных мероприятий.',
       },
@@ -739,7 +739,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/a3ezBXebEtc',
+        url: 'https://youtube.com/embed/a3ezBXebEtc',
         title: 'Чэская Рэспубліка',
         description: 'Адпраўляйцеся ў Чэхію і пазнаёміцеся з 12 чэшскімі помнікамі ЮНЕСКА. У гэтым годзе спаўняецца роўна 20 гадоў з таго часу, як першы з іх быў унесены ў прэстыжны спіс, і юбілей будзе адзначаны некалькімі культурнымі мерапрыемствамі.',
       },
@@ -803,7 +803,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vzSHcyXfNPw',
+        url: 'https://youtube.com/embed/vzSHcyXfNPw',
         title: 'Iceland Vacation Travel Guide | Expedia',
         description: 'Iceland – a nation windswept and beautiful from mountain to sea. Check out our footage to discover the natural and manmade marvels of the island. ',
       },
@@ -866,7 +866,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vzSHcyXfNPw',
+        url: 'https://youtube.com/embed/vzSHcyXfNPw',
         title: 'Путеводитель по Исландии | Expedia',
         description: 'Исландия - нация продуваемая всеми ветрами и прекрасная от горы до моря. Посмотрите наши кадры, чтобы открыть для себя чудеса природы и рукотворные чудеса острова.',
       },
@@ -929,7 +929,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/vzSHcyXfNPw',
+        url: 'https://youtube.com/embed/vzSHcyXfNPw',
         title: 'Ісландскі турыстычны гід | Expedia',
         description: 'Ісландыя - нацыя, ветраная і прыгожая ад гары да мора. Праверце нашы кадры, каб выявіць дзівосы прыроды і чалавека, якія створаны чалавекам.',
       },
@@ -992,7 +992,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/RriZ_vFKdfg',
+        url: 'https://youtube.com/embed/RriZ_vFKdfg',
         title: 'Italy | Basic Information | Everyone Must Know',
         description: 'Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s "David" and Brunelleschi\'s Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km2 (116,347 sq mi) and has a largely temperate seasonal and Mediterranean climate. ',
       },
@@ -1055,7 +1055,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/RriZ_vFKdfg',
+        url: 'https://youtube.com/embed/RriZ_vFKdfg',
         title: 'Италия | Основная информация | Все должны знать',
         description: 'Италия, европейская страна с протяженным побережьем Средиземного моря, оставила сильный след в западной культуре и кухне. Его столица, Рим, является домом для Ватикана, а также памятников искусства и древних руин. Другие крупные города включают Флоренцию с шедеврами эпохи Возрождения, такими как «Давид» Микеланджело и Дуомо Брунеллески; Венеция, город каналов; и Милан, итальянская столица моды. Расположенная в самом сердце Средиземного моря, Италия имеет открытые сухопутные границы с Францией, Швейцарией, Австрией, Словенией, Сан-Марино и Ватиканом. Италия занимает площадь 301 338 км2 (116 347 квадратных миль) и имеет в основном умеренный сезонный и средиземноморский климат.',
       },
@@ -1118,7 +1118,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/RriZ_vFKdfg',
+        url: 'https://youtube.com/embed/RriZ_vFKdfg',
         title: 'Італія | Асноўная інфармацыя | Кожны павінен ведаць',
         description: 'Італія, еўрапейская краіна з доўгай міжземнаморскай узбярэжжам, пакінула магутны след у заходняй культуры і кухні. У яго сталіцы, Рыме, жыве Ватыкан, а таксама знакавае мастацтва і старажытныя руіны. Сярод іншых буйных гарадоў - Фларэнцыя, з такімі шэдэўрамі рэнесанса, як "Давід" Мікеланджэла і Дуома; Венецыя, горад каналаў; і Мілан, сталіца моды Італіі. Размешчаная ў самым сэрцы Міжземнага мора, Італія мае адкрытыя сухапутныя мяжы з Францыяй, Швейцарыяй, Аўстрыяй, Славеніяй, Сан-Марына і Ватыканам. Італія займае плошчу 301 338 км2 і мае ў асноўным умераны сезонны і міжземнаморскі клімат.',
       },
@@ -1181,7 +1181,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/X3n41cfMrE4',
+        url: 'https://youtube.com/embed/X3n41cfMrE4',
         title: 'Introducing the Netherlands',
         description: 'Start exploring the Netherlands with Lonely Planet’s video guide to getting around, when to go and the top things to do while you\'re there',
       },
@@ -1244,7 +1244,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/X3n41cfMrE4',
+        url: 'https://youtube.com/embed/X3n41cfMrE4',
         title: 'Введение в Нидерланды',
         description: 'Начните знакомство с Нидерландами с видео-гида Lonely Planet, который расскажет, когда лучше ехать и чем заняться, пока вы там.',
       },
@@ -1307,7 +1307,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/X3n41cfMrE4',
+        url: 'https://youtube.com/embed/X3n41cfMrE4',
         title: 'Ўвядзенне ў Нідэрланды',
         description: 'Пачніце знаёміцца з Нідэрландамі з відэагіда Lonely Planet, каб даведацца, калі трэба ехаць і што рабіць, пакуль вы там.',
       },
@@ -1370,7 +1370,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/f0PvMmTAUAQ',
+        url: 'https://youtube.com/embed/f0PvMmTAUAQ',
         title: 'Australia | Destination World',
         description: 'Experience the only continent that’s an island on this episode of “Destination World.” Australia, also known as the Land Down Under, has some of the most unique wildlife in the world.',
       },
@@ -1432,7 +1432,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/f0PvMmTAUAQ',
+        url: 'https://youtube.com/embed/f0PvMmTAUAQ',
         title: 'Австралия | Мир назначения ',
         description: 'Откройте для себя единственный континент, являющийся островом, в этом эпизоде "Destination World". Австралия, также известная как Земля под землей, имеет одну из самых уникальных диких животных в мире',
       },
@@ -1494,7 +1494,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/f0PvMmTAUAQ',
+        url: 'https://youtube.com/embed/f0PvMmTAUAQ',
         title: 'Аўстралія | Свет прызначэння ',
         description: 'Вопыт адзінага кантынента ў гэтым эпізодзе" Свет прызначэння ". У Аўстраліі, таксама вядомай як Зямля ўнізе, ёсць адны з самых унікальных дзікіх жывёл у свеце.',
       },
@@ -1557,7 +1557,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/NMR8id6_Enw',
+        url: 'https://youtube.com/embed/NMR8id6_Enw',
         title: 'China in 5 Minutes - Learn About China Quickly',
         description: 'With more than 1.4 billion people, China is the world\'s most populous country, and it has created many of the foundations of the modern world. Learn the most important information about China in this video!',
       },
@@ -1620,7 +1620,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/NMR8id6_Enw',
+        url: 'https://youtube.com/embed/NMR8id6_Enw',
         title: 'Китай за 5 минут - узнайте о Китае быстро',
         description: 'Китай с населением более 1,4 миллиарда человек является самой густонаселенной страной в мире, и он заложил многие основы современного мира. Узнай самую важную информацию о Китае из этого видео!',
       },
@@ -1683,7 +1683,7 @@ const countryList = [
     ],
     videos: [
       {
-        url: 'https://youtu.be/NMR8id6_Enw',
+        url: 'https://youtube.com/embed/NMR8id6_Enw',
         title: 'Кітай за 5 хвілін - хутка даведайцеся пра Кітай',
         description: 'Кітай мае больш чым 1,4 мільярда чалавек і з\'яўляецца самай густанаселенай краінай свету, і ён стварыў шмат асноў сучаснага свету. Даведайцеся самую важную інфармацыю пра Кітай у гэтым відэа!',
       },
