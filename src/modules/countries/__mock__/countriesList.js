@@ -190,7 +190,7 @@ const countryList = [
     name: 'United Kingdom of Great Briton',
     capital: 'London',
     capitalCoordinates: { lat: 51.5, lon: -0.116667 },
-    currency: 'GPB',
+    currency: 'GBP',
     description: 'The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK or U.K.), or Britain, is a sovereign country in north-western Europe, off the north-­western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland. Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest coastline in the world. The Irish Sea separates Great Britain and Ireland. The total area of the United Kingdom is 94,000 square miles (240,000 km2).',
     photo: '/img/country/2/UK.jpg',
     places: [
@@ -252,7 +252,7 @@ const countryList = [
     name: 'Великобритания',
     capital: 'Лондон',
     capitalCoordinates: { lat: 51.5, lon: -0.116667 },
-    currency: 'GPB',
+    currency: 'GBP',
     description: 'Соединенное Королевство Великобритании и Северной Ирландии, широко известное как Соединенное Королевство (Великобритания или Великобритания) или Великобритания, является суверенной страной в северо-западной Европе, у северо-западного побережья материковой части Европы. Соединенное Королевство включает остров Великобритания, северо-восточную часть острова Ирландия и множество небольших островов в пределах Британских островов. Северная Ирландия имеет сухопутную границу с Ирландской Республикой. В остальном Соединенное Королевство окружено Атлантическим океаном с Северным морем на востоке, Ла-Маншем на юге и Кельтским морем на юго-западе, что дает ему 12-е место по длине береговой линии в мире. Ирландское море разделяет Великобританию и Ирландию. Общая площадь Соединенного Королевства составляет 94 000 квадратных миль (240 000 км2).',
     photo: '/img/country/2/UK.jpg',
     places: [
@@ -314,7 +314,7 @@ const countryList = [
     name: 'Злучанае Каралеўства Вялікабрытаніі',
     capital: 'Лондан',
     capitalCoordinates: { lat: 51.5, lon: -0.116667 },
-    currency: 'GPB',
+    currency: 'GBP',
     description: 'Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі, шырока вядомае як Злучанае Каралеўства (Вялікабрытанія ці Вялікабрытанія), альбо Брытанія, з\'яўляецца суверэннай краінай на паўночным захадзе Еўропы, каля паўночна-заходняга ўзбярэжжа мацерыковай часткі Еўропы. Злучанае Каралеўства ўключае востраў Вялікабрытанія, паўночна-ўсходнюю частку вострава Ірландыя і мноства меншых астравоў на Брытанскіх выспах. Паўночная Ірландыя падзяляе сухапутную мяжу з Рэспублікай Ірландыя. У адваротным выпадку Злучанае Каралеўства акружана Атлантычным акіянам, з Паўночным морам на ўсход, Ла-Маншам на поўдні і Кельцкім морам на паўднёвым захадзе, што дае яму 12-ю даўжыню ўзбярэжжа ў свеце. Ірландскае мора раздзяляе Вялікабрытанію і Ірландыю. Агульная плошча Злучанага Каралеўства складае 94 000 квадратных міль (240 000 км2).',
     photo: '/img/country/2/UK.jpg',
     places: [
